@@ -5,6 +5,7 @@ F/ systems configuration file for scrubbing JavaScript with [JSHint](http://jshi
 - `lint.json` - F/ settings for development used in various editors
 - `lint-ci.json` - F/ Continuous Integration settings, same as `lint.json` except doesn't allow logging (`console`, `alert` etc.)
 
+See the [JSHint](http://jshint.com/) site or the [source code](https://github.com/jshint/jshint/blob/master/jshint.js#L320) for information about the configuration settings.
 
 ## Requirements
 
