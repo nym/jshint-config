@@ -30,6 +30,7 @@
   "onevar"     : false,
   "passfail"   : false,
   "plusplus"   : false,
+  "prototypejs" :true,
   "regexp"     : true,
   "rhino"      : false,
   "undef"      : true,
@@ -57,12 +58,7 @@
     "waitsFor",
     "Benchmark",
     "Raphael",
-    "Modernizr",
-    "$$",
-    "Event",
-    "Ajax",
-    "Class",
-    "Element"
+    "Modernizr"
   ]
 }
 
