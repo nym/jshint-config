@@ -1,5 +1,5 @@
 {
-  "asi"          : false,
+  "asi"          : true,
   "bitwise"      : true,
   "boss"         : false,
   "browser"      : true,
@@ -59,6 +59,7 @@
     "waitsFor",
     "Benchmark",
     "Raphael",
+    "Backbone",
     "Modernizr"
   ]
 }
